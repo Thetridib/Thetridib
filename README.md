@@ -17,7 +17,7 @@ You bring the curiosity; I’ll bring the dashboards 📊✨
 
 ## 🔗 **Socials**
 <!-- <a href="your_instagram_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
-<a href="your_linkedin_link"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tridib-sarkar-6b065a379/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ---
